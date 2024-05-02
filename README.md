@@ -1,2 +1,1 @@
-# Stock_Management_System
-Dbms Project
+This repository contains the SQL code for a Stock Management System implemented in a relational database management system (RDBMS). The project includes the creation of tables, insertion of sample data, and the implementation of various SQL queries and views for managing stocks, portfolios, transactions, investors, and market data.
